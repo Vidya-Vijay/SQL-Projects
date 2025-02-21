@@ -1,4 +1,4 @@
-## Welcome to my SQL projects repository! This collection showcases my expertise in database management, querying, and optimization, focusing on chemical production plant management.
+Welcome to my SQL projects repository! This collection showcases my expertise in database management, querying, and optimization, focusing on chemical production plant management.
 
 ## Projects
 
