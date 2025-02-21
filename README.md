@@ -23,12 +23,6 @@ SELECT product.Product_Name, supplier.Supplier_Name
 FROM product
 JOIN supplier ON product.Supplier_ID = supplier.Supplier_ID;
 ```
-
-## 🚀 Next Steps
-- 🛠️ Improve query optimization.
-- 📈 Integrate the database with a web-based dashboard.
-- 🔍 Perform data analysis for better production insights.
-
 ## 📜 License
 This project is licensed under the **Apache License 2.0** – you may use, modify, and distribute it under the terms outlined in the license.
 
