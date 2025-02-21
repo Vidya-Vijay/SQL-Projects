@@ -14,7 +14,7 @@ This project is a **MySQL-based database** for managing a **Chemical Production 
 ## 🛠 How to Import the Database
 1. Open **phpMyAdmin**.
 2. Create a **new database** named `productionplant`.
-3. Click **Import** → Select `productionplant.sql` → Click **Go**.
+3. Choose **Import** from the menu bar → Choose File → Select `productionplant.sql` → Click **Import**.
 
 ## 📊 Sample Queries
 ```sql
