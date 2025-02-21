@@ -1,6 +1,6 @@
 # Chemical_Plant_DB
 
-# **[Chemical Production Plant Management System using MySQL](Chemical_Plant_DB)
+# Chemical Production Plant Management System using MySQL
 
 ## 📌 Overview
 This project is a **MySQL-based database** for managing a **Chemical Production Plant**. It helps track raw materials, production processes, customer orders, and payments. The database is designed using **phpMyAdmin** and adheres to database normalization principles.
