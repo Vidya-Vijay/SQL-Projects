@@ -10,4 +10,4 @@ Welcome to my SQL projects repository! This collection showcases my expertise in
 
 - Implemented SQL queries to track inventory levels, production efficiency, and regulatory compliance.
 
-Database Management Systems: MySQL, PostgreSQL, SQL Server
+ Tools & Techniques: XAMPP, MySQL, EXcel
