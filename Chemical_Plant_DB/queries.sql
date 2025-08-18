@@ -1,6 +1,6 @@
 --Data Definition Language (DDL)
 --Database: productionplant
---The DDL for all the tables in the productionplant database are as follows:
+--The DDL for all the tables in the productionplant database:
 
 --Raw_Material 
 CREATE TABLE `productionplant`.`raw_material` (`RawMaterial_ID` VARCHAR(4) NOT NULL , `RawMaterial_Name` VARCHAR(15) NOT NULL , 
@@ -82,4 +82,5 @@ FROM product JOIN production ON production.Product_ID = product.Product_ID
 OIN product_material ON product_material.Prod_ID = production.Prod_ID 
 JOIN raw_material ON product_material.RawMaterial_ID = raw_material.RawMaterial_ID 
 WHERE raw_material.RawMaterial_Price = (SELECT MAX(raw_material.RawMaterial_Price) FROM raw_material);
+
 
